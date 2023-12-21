@@ -1,0 +1,258 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Documents/Modelsim/2/project_final
+T_opt
+!s110 1675497850
+V5C?YdYNNZda;zeHi]mSLH1
+04 4 4 work Test fast 0
+=1-902e1658b524-63de117a-95-447c
+o-quiet -auto_acc_if_foreign -work PROJECT_FF +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vcounter
+Z1 !s110 1675494769
+!i10b 1
+!s100 <48<Qe>o=FRgJ:T?fYOhP1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ITK6`:MHlLBGF@<cSaUF5V3
+Z3 dC:/Users/user/Documents/Modelsim/2/PROJECT_400101464
+w1675494420
+8C:\Users\user\Documents\Modelsim\2\PROJECT_400101464\Counter_f.v
+FC:\Users\user\Documents\Modelsim\2\PROJECT_400101464\Counter_f.v
+!i122 2
+Z4 L0 1 11
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z7 !s108 1675494769.000000
+!s107 C:\Users\user\Documents\Modelsim\2\PROJECT_400101464\Counter_f.v|
+!s90 -reportprogress|300|-work|PROJECT_FF|-vopt|-stats=none|C:\Users\user\Documents\Modelsim\2\PROJECT_400101464\Counter_f.v|
+!i113 0
+Z8 o-work PROJECT_FF -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vCOUNTER500
+Z9 !s110 1675494770
+!i10b 1
+!s100 km3XJb_F73_o0`[aDmQFT1
+R2
+In<CFba@b4ShL1gC1TDRKH1
+R3
+Z10 w1675494627
+Z11 8C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Led_f.v
+Z12 FC:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Led_f.v
+!i122 5
+L0 9 18
+R5
+R6
+r1
+!s85 0
+31
+Z13 !s108 1675494770.000000
+Z14 !s107 C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Led_f.v|
+Z15 !s90 -reportprogress|300|-work|PROJECT_FF|-vopt|-stats=none|C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Led_f.v|
+!i113 0
+R8
+R0
+n@c@o@u@n@t@e@r500
+vDFF
+R9
+!i10b 1
+!s100 B]0=m:PAQ^?BITT_e<2jG0
+R2
+IEi[jhY_P>nkV3m:_Oe4hZ3
+R3
+w1675494736
+8C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Dff_f.v
+FC:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Dff_f.v
+!i122 8
+L0 1 10
+R5
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Dff_f.v|
+!s90 -reportprogress|300|-work|PROJECT_FF|-vopt|-stats=none|C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Dff_f.v|
+!i113 0
+R8
+R0
+n@d@f@f
+vLEDLamp
+R9
+!i10b 1
+!s100 [_W[0;hIad>_j0<RzjYRn1
+R2
+I`]WFA;WID[clhTH_<CIEI1
+R3
+R10
+R11
+R12
+!i122 5
+L0 1 7
+R5
+R6
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 0
+R8
+R0
+n@l@e@d@lamp
+vPulse_finder
+R1
+!i10b 1
+!s100 25T5o:HlNWSzBASYA]T`e3
+R2
+I1I`4i50==j8SePz70eH=01
+R3
+w1675494308
+8C:\Users\user\Documents\Modelsim\2\PROJECT_400101464\Pulse_finder_f.v
+FC:\Users\user\Documents\Modelsim\2\PROJECT_400101464\Pulse_finder_f.v
+!i122 1
+R4
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\user\Documents\Modelsim\2\PROJECT_400101464\Pulse_finder_f.v|
+!s90 -reportprogress|300|-work|PROJECT_FF|-vopt|-stats=none|C:\Users\user\Documents\Modelsim\2\PROJECT_400101464\Pulse_finder_f.v|
+!i113 0
+R8
+R0
+n@pulse_finder
+vRegister
+!s110 1675494872
+!i10b 1
+!s100 [@EhBFkFObV9Hcz?P93ET2
+R2
+IfYDDboh0JfJALE:@[IheN1
+R3
+w1675494868
+8C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Register_f.v
+FC:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Register_f.v
+!i122 9
+Z16 L0 1 13
+R5
+R6
+r1
+!s85 0
+31
+!s108 1675494872.000000
+!s107 C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Register_f.v|
+!s90 -reportprogress|300|-work|PROJECT_FF|-vopt|-stats=none|C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Register_f.v|
+!i113 0
+R8
+R0
+n@register
+vRom
+R1
+!i10b 1
+!s100 ^doE]6V[m0WiL[;;_i5@T0
+R2
+I]==Gc:5B2RXZOk_ihBEah3
+R3
+w1675494510
+8C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Eprom_f.v
+FC:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Eprom_f.v
+!i122 3
+L0 2 1743
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Eprom_f.v|
+!s90 -reportprogress|300|-work|PROJECT_FF|-vopt|-stats=none|C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Eprom_f.v|
+!i113 0
+R8
+R0
+n@rom
+vsegment7
+R1
+!i10b 1
+!s100 2kO4Ee5Q3of5dNhSM^QBV3
+R2
+IYlT>NFPe>OVRHk:7H>UN[1
+R3
+w1675494566
+8C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Bcd_7s_f.v
+FC:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Bcd_7s_f.v
+!i122 4
+L0 1 22
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Bcd_7s_f.v|
+!s90 -reportprogress|300|-work|PROJECT_FF|-vopt|-stats=none|C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Bcd_7s_f.v|
+!i113 0
+R8
+R0
+vSpeaker_Controler
+R9
+!i10b 1
+!s100 gfng9<J>ejli=ef0ia7W22
+R2
+IU66O14]m@SkY[c3@3XkBA1
+R3
+w1675494674
+8C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Speaker_f.v
+FC:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Speaker_f.v
+!i122 6
+R16
+R5
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Speaker_f.v|
+!s90 -reportprogress|300|-work|PROJECT_FF|-vopt|-stats=none|C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Speaker_f.v|
+!i113 0
+R8
+R0
+n@speaker_@controler
+vTest
+!s110 1675497839
+!i10b 1
+!s100 8E`Pa@FH8;2dSLZdQ3ko32
+R2
+IeIRCM=7M^mT=_WMj4PGg^0
+R3
+w1675497836
+8C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Tester_f.v
+FC:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Tester_f.v
+!i122 13
+L0 4 59
+R5
+R6
+r1
+!s85 0
+31
+!s108 1675497839.000000
+!s107 C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Tester_f.v|
+!s90 -reportprogress|300|-work|PROJECT_FF|-vopt|-stats=none|C:/Users/user/Documents/Modelsim/2/PROJECT_400101464/Tester_f.v|
+!i113 0
+R8
+R0
+n@test
